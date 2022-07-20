@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on dimensional bleeder
-- 🌱 I’m currently learning lua
+- 🔭 I’m currently working on pathetic crisis and crisis engine
+- 🌱 I’m currently learning haxe
 - 👯 I’m looking to collaborate on psych engine discord server
 - 🤔 I’m looking for help with no one
 - 💬 Ask me about fnf lua script!
