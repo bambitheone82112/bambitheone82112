@@ -2,7 +2,6 @@
 ### My Names bambitheone82112 and i love modcharting or scripting!
 #### Dm me to be a modcharter!
 
-<!--
 **bambitheone82112/bambitheone82112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
